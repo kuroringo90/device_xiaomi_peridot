@@ -1,0 +1,86 @@
+[
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/vendor_xiaomi_peridot",
+    "branch": "vic",
+    "target_path": "vendor/xiaomi/peridot"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/device_xiaomi_peridot-kernel",
+    "branch": "vic",
+    "target_path": "device/xiaomi/peridot-prebuilt"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/hardware_qcom-caf_common",
+    "branch": "vic",
+    "target_path": "hardware/qcom-caf/common"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/vendor_qcom_opensource_agm",
+    "branch": "vic-sm8650",
+    "target_path": "hardware/qcom-caf/sm8650/audio/agm"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/vendor_qcom_opensource_arpal",
+    "branch": "vic-sm8650",
+    "target_path": "hardware/qcom-caf/sm8650/audio/pal"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/hardware_qcom_audio-ar",
+    "branch": "vic-sm8650",
+    "target_path": "hardware/qcom-caf/sm8650/audio/primary-hal"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/vendor_qcom_opensource_data-ipa-cfg-mgr",
+    "branch": "vic-sm8650",
+    "target_path": "hardware/qcom-caf/sm8650/data-ipa-cfg-mgr"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/vendor_qcom_opensource_dataipa",
+    "branch": "vic-sm8650",
+    "target_path": "hardware/qcom-caf/sm8650/dataipa"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/hardware_qcom_display",
+    "branch": "vic-sm8650",
+    "target_path": "hardware/qcom-caf/sm8650/display"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/hardware_qcom_media",
+    "branch": "vic-sm8650",
+    "target_path": "hardware/qcom-caf/sm8650/media"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/device_qcom_sepolicy_vndr",
+    "branch": "vic-sm8650",
+    "target_path": "device/qcom/sepolicy_vndr/sm8650"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/vendor_qcom_opensource_power",
+    "branch": "lineage-21.0",
+    "target_path": "vendor/qcom/opensource/power"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/vendor_qcom_opensource_vibrator",
+    "branch": "lineage-21.0",
+    "target_path": "vendor/qcom/opensource/vibrator"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-peridot/hardware_xiaomi",
+    "branch": "vic",
+    "target_path": "hardware/xiaomi"
+  }
+]
